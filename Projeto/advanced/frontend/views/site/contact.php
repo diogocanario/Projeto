@@ -8,14 +8,14 @@ use yii\helpers\Html;
 use yii\bootstrap\ActiveForm;
 use yii\captcha\Captcha;
 
-$this->title = 'Contact';
+$this->title = 'Suporte';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-contact">
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        If you have business inquiries or other questions, please fill out the following form to contact us. Thank you.
+       Se precisas de ajuda ou nao encontras a tua série/filme favorito entre em contacto conosco.
     </p>
 
     <div class="row">
